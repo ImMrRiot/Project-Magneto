@@ -5,7 +5,8 @@ To use, join https://dsc.gg/riotfl
 
 # Capabilities
 
-<h2>Sub-heading</h2>
+<h2>Kahoot Flooding</h2>
 
+Flood Kahoot games with 50 bots!
 
-
+Join the [Discord](https://dsc.gg/riotfl)
