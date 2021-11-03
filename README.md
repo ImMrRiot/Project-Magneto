@@ -1,12 +1,9 @@
 # Project-Magneto
 
 A Multi Functional Discord bot!
-To use, join https://dsc.gg/riotfl
+Created for https://dsc.gg/riotfl
 
-# Capabilities
 
-<h2>Kahoot Flooding</h2>
+Do not use any part of this tool for malicious purposes. If you would like to contribute to the project, dm riot#1111 on Discord or join my server [here](https://dsc.gg/riotfl)
 
-Flood Kahoot games with 50 bots!
-
-Join the [Discord](https://dsc.gg/riotfl)
+I am not responsible for any misuse of this tool. 
